@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 gem 'rails', '3.0.12'
 gem 'sqlite3', '1.3.3'
-
+gem 'i18n'
 group :development do
   gem 'rspec-rails', '2.6.1'  # for RSpec testing framework
 end
